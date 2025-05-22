@@ -1,0 +1,105 @@
+
+.img{
+   height: 600px;
+   width: 900px;
+}
+.b-img1{
+  height: 150px;
+  width: 200px;
+  margin-top: 8px;
+  border-radius: 10px;
+}
+.card1{
+  background-color: #FDFDFD;
+  border-radius: 10px;
+
+}
+
+.mainhead{
+  font-size: 60px;
+  font-family: 'Cinzel';
+  font-weight: bold;
+}
+.button1{
+  background-color: #D2691E;
+  color: white;
+  border-radius: 7px;
+  height: 40px;
+  width: 200px;
+}
+.mainpara{
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bold;
+  color: #4b4242;
+}
+.bg{
+  background-color: #A3B18A;
+  background-size: cover;
+  color: #4E342E;
+}
+.bg1{
+  background-color: #A3B18A;
+  background-size: cover;
+  color: #4E342E;
+}
+.bg-bf-1{
+  text-align: center;
+  padding: 10px;
+  background-color: #A3B18A;
+}
+.box{
+  border-radius: 8px;
+  border-color: black;
+  border-style: dotted;
+}
+.card-head{
+  color: #8B5E3C;
+  padding: 5px;
+  font-size: 25px;
+  font-weight: bold;
+}
+.logo{
+  height: 50px;
+  width: 50px;
+}
+.page-head{
+  color: black;
+  font-size: 70px;
+  font-style: "Playfair Display";
+}
+.page-text{
+  color: black;
+  font-size: 18px;
+  font-style: "Merriweather";
+}
+.page-title{
+  color: black;
+  font-size: 40px;
+  font-style: "Montserrat";
+}
+.icon {
+  color: #df5e33;
+  font-size: 40px;
+}
+.icon-container {
+  background-color: #faf7e8;
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  margin: 15px;
+  padding-top: 22px;
+  padding-bottom: 14px;
+  padding-right: 16px;
+  padding-left: 22px;
+}
+.page-img{
+  height: 500px;
+  width: 700px;
+  border-radius: 10px;
+  
+}
+.page-button{
+  padding-top: 10px;
+  padding-bottom: 100px;
+}
